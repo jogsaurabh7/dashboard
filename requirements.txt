@@ -1,0 +1,10 @@
+hiplot==0.1.23
+numpy==1.19.2
+pandas_profiling==2.9.0
+pandas==1.1.3
+dtaledesktop==0.1.3
+pandasgui==0.2.9
+streamlit==0.77.0
+dtale==1.36.0
+simplejson==3.17.2
+Pillow==8.1.0
