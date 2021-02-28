@@ -20,10 +20,10 @@ Reports_selectbox = st.sidebar.selectbox('Select Report', report_list)
 
 gl_images = ['cashflow.png', 'creditcontrol.png', 'Sales ratios.png', 'monthlyCashFlow.png', 'Credit Period.png',
              'OverDue.png', 'payablestatus.png', 'Receivables.png']
-sales_images = ['sales top10.png', 'CostCenterSale.png', 'SalesMAnSales.png', 'SoPending.png', 'OrderToSales.png',
+sales_images = ['sales top10.png', 'CostCenterSale.png', 'SalesManSales.png', 'SoPending.png', 'OrderToSales.png',
                 'o2c.png', 'WoSalesPending.png']
 purchase_images = ['PurchseMonth.png', 'PendingPo.png', 'ordertopurchase.png', 'POratesVariation.png',
-                   'POQtrCostCete.png']
+                   'PoQtrCostCete.png']
 
 
 def gl():
