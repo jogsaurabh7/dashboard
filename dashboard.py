@@ -55,7 +55,7 @@ elif DashBoard_selectbox == 'Purchase Reports':
 @st.cache(suppress_st_warning=True)
 def get_data(filename):
     with st.spinner('Getting Data...It may take a some time...'):
-        df = pd.read_pickle(filename)
+        df = pd.read_csv(filename)
 
     return df
 
@@ -88,40 +88,40 @@ def RunReport():
 
 if Reports_selectbox == report_list[1]:
     st.subheader(report_list[1])
-    df=get_data('data/CreditLimit.pkl')
+    df=get_data('CreditLimit.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[2]:
     st.subheader(report_list[2])
-    df = get_data('cashflow.pkl')
+    df = get_data('cashflow.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[3]:
     st.subheader(report_list[3])
-    df = get_data('sales.pkl')
+    df = get_data('sales.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[4]:
     st.subheader(report_list[4])
-    df = get_data('SO.pkl')
+    df = get_data('SO.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[5]:
     st.subheader(report_list[5])
-    df = get_data('purchase.pkl')
+    df = get_data('purchase.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[6]:
     st.subheader(report_list[6])
-    df = get_data('PO.pkl')
+    df = get_data('PO.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[7]:
     st.subheader(report_list[7])
-    df = get_data('Receivables.pkl')
+    df = get_data('Receivables.csv')
     RunReport()
 
 elif Reports_selectbox == report_list[8]:
     st.subheader(report_list[8])
-    df = get_data('Payable.pkl')
+    df = get_data('Payable.csv')
     RunReport()
