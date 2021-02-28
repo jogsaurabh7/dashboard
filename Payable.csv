@@ -1,0 +1,47 @@
+BillDate,BillNo,accode,Amount,name,crdays,AvgBal,NetTrans,NetAmount,duedate,overduedays,DueStatus,OverDueAgeing,o/sdays,O/sAgeing
+2020-01-01,opening,CR00001,-443.37,CR A-B Gas Company                                          ,0,-1026.005,1165.2700000000004,1165.2700000000004,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00005,-982.5,CR ABC Home & Commercial Services                           ,0,-982.5,0.0,0.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00016,-295066.26,CR ADP Tax/Fincl Svc ADP - Tax                              ,0,-263429.88,-63272.76000000005,63272.76000000005,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00018,-3540.62,CR Airdyne                                                  ,0,-3540.62,0.0,0.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-02,200006  ,CR00019,-75.33,CR Airgas Safety                                            ,0,-37.665,-75.33,75.33,2020-01-02,363.0,Overdue,More than 120 days,363.0,More than 120 days
+2020-07-14,200444  ,CR00020,-479.35,"CR Airgas USA, LLC.                                         ",30,-2513.2349999999956,4067.7700000000077,4067.7700000000077,2020-08-13,139.0,Overdue,More than 120 days,169.0,More than 120 days
+2020-01-01,opening,CR00035,-5382.0,CR Azimuth Machinery                                        ,0,-2691.0,-5382.0,5382.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-12-14,210009  ,CR00040,-5024.0,"CR Cain Manufacturing Co.,Inc.                              ",30,-2594.0,-4860.0,4860.0,2021-01-13,-14.0,Not Overdue,,16.0,0 to 30 days
+2020-01-01,opening,CR00048,-259.87,CR City of Houston - Permit Office                          ,0,-129.935,-259.87,259.87,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-11-24,200595  ,CR00050,-2414.04,CR Coastal HVAC Supply ( Vendor )                           ,60,-11629.694999999982,18431.31000000004,18431.31000000004,2021-01-23,-24.0,Not Overdue,,36.0,30 to 60 days
+2020-12-15,210003  ,CR00055,-0.09,"CR Curtis Steel Company, Inc.                               ",0,-0.04500000000007276,-0.09000000000014552,0.09000000000014552,2020-12-15,15.0,Overdue,0 to 30 days,15.0,0 to 30 days
+2020-01-01,opening,CR00067,-383.39,CR Fastenal                                                 ,0,-383.39,0.0,0.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-12-10,200565  ,CR00071,-4829.36,CR Grainger                                                 ,0,-3368.82,-2921.0800000000017,2921.0800000000017,2020-12-10,20.0,Overdue,0 to 30 days,20.0,0 to 30 days
+2020-05-14,200321  ,CR00072,-1958.9,CR Groves Industrial Supply                                 ,30,-979.4499999999998,-1958.8999999999996,1958.8999999999996,2020-06-13,200.0,Overdue,More than 120 days,230.0,More than 120 days
+2020-01-01,opening,CR00079,-66.76,CR HOUSTON BEARING & SUPPLY                                 ,0,-33.379999999999995,-66.75999999999999,66.75999999999999,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-02-06,200077  ,CR00093,-137.49,CR LM Spray Equipment                                       ,0,-68.745,-137.49,137.49,2020-02-06,328.0,Overdue,More than 120 days,328.0,More than 120 days
+2020-01-01,opening,CR00116,-0.0,CR P&S Rice Mills                                           ,0,-58.865000000014554,117.72999999998137,117.72999999998137,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-11-23,200596  ,CR00134,-1204.6,CR Seven Star Packaging                                     ,30,-602.3000000000002,-1204.6000000000004,1204.6000000000004,2020-12-23,7.0,Overdue,0 to 30 days,37.0,30 to 60 days
+2020-12-16,210005  ,CR00136,-29862.17,"CR Solar Supply, Inc                                        ",30,-61587.22499999982,63450.110000000335,63450.110000000335,2021-01-15,-16.0,Not Overdue,,14.0,0 to 30 days
+2020-01-01,opening,CR00140,-3889.56,"CR Spiral-Helix, Inc.                                       ",0,-2676.7550000000015,-2425.6100000000024,2425.6100000000024,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00166,-330.99,CR Waste Corporation of Texas                               ,0,230.42000000000104,-1122.819999999998,1122.819999999998,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-11-19,200612  ,CR00172,-281.12,CR T. J. SNOW CO.                                           ,0,-1234.27,1906.3000000000002,1906.3000000000002,2020-11-19,41.0,Overdue,30 to 60 days,41.0,30 to 60 days
+2020-11-03,200600  ,CR00178,-876.48,CR CL ALLOYS                                                ,30,-3623.5549999999907,5494.150000000023,5494.150000000023,2020-12-03,27.0,Overdue,0 to 30 days,57.0,30 to 60 days
+2020-12-17,210008  ,CR00181,-561.78,CR Triple S Steel                                           ,0,-5284.735000000001,9445.91,9445.91,2020-12-17,13.0,Overdue,0 to 30 days,13.0,0 to 30 days
+2020-01-01,opening,CR00202,-0.0,CR Prime A\C Trading FZC                                    ,0,-145380.775,290761.55,290761.55,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00206,-2954.34,CR Cintas First Aid & Safety                                ,45,-2090.5200000000054,-1727.6400000000103,1727.6400000000103,2020-02-15,319.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-12-28,200615  ,CR00262,-7850.0,CR Capital HArdware Supply ELGEN MANUFACTURING              ,75,-11552.5,7405.0,7405.0,2021-03-13,-73.0,Not Overdue,,2.0,0 to 30 days
+2020-05-06,200281  ,CR00265,-9813.55,CR DIE STAMPED PRODUCTS INC                                 ,30,-8853.359999999997,-1920.3799999999974,1920.3799999999974,2020-06-05,208.0,Overdue,More than 120 days,238.0,More than 120 days
+2020-11-20,200591  ,CR00270,-74241.03,CR Sumit Global                                             ,60,-122710.18999999996,96938.32000000007,96938.32000000007,2021-01-19,-20.0,Not Overdue,,40.0,30 to 60 days
+2020-12-16,210001  ,CR00272,-34869.72,CR Win Supply Of Houston                                    ,30,-64115.264999999985,58491.090000000026,58491.090000000026,2021-01-15,-16.0,Not Overdue,,14.0,0 to 30 days
+2020-09-25,200544  ,CR00280,-6696.7,CR PERFORMANCE PACKAGING                                    ,30,-3393.224999999995,-6606.94999999999,6606.94999999999,2020-10-25,66.0,Overdue,60 to 90 days,96.0,More than 120 days
+2020-01-01,opening,CR00289,-1331.5,CR INSCO DISTRIBUTING INC                                   ,30,-665.75,-1331.5,1331.5,2020-01-31,334.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00322,-247.0,CR Midwest Metal Products                                   ,0,-123.5,-247.0,247.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00330,-20910.0,CR Crescent Integrated Techsourcing                         ,0,-34506.8,27193.59999999999,27193.59999999999,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-11-13,200604  ,CR00343,-23747.44,CR COMMERCIAL STEEL PRODUCT                                 ,45,-20731.509999999857,-6031.859999999753,6031.859999999753,2020-12-28,2.0,Overdue,0 to 30 days,47.0,30 to 60 days
+2020-01-01,opening,CR00384,-6000.0,CR COFACE NORTH AMERICA INSURANCE COMPANY                   ,0,-3000.0,-6000.0,6000.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00397,-543.74,CR United Site Services                                     ,0,-271.87000000000035,-543.7400000000007,543.7400000000007,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00412,-473.37,CR Doggett Equipment Service Group                          ,0,-236.68499999999995,-473.3699999999999,473.3699999999999,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00441,-325.0,"CR S.A.V. 88 LOGISTICS,LLC                                  ",0,-162.5,-325.0,325.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00447,-53749.0,CR Texas Mutual Insurance Company                           ,0,-26874.500000000004,-53749.00000000001,53749.00000000001,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00455,-691.64,Cr Haltom Industries                                        ,0,-345.82,-691.64,691.64,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00458,-393.65,CR Ryder Transport Services                                 ,0,-196.82500000000002,-393.65000000000003,393.65000000000003,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00459,-6116.13,CR Maintenance Repair Service                               ,0,-3058.065,-6116.13,6116.13,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00460,-300.0,CR Wong Fleming P.C                                         ,0,-150.0,-300.0,300.0,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00461,-148.22,CR City Of Houston - ARA Burglar Alarm                      ,0,-74.11,-148.22,148.22,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
+2020-01-01,opening,CR00463,-1130.08,CR Industrial Fire Equipment                                ,0,-565.04,-1130.08,1130.08,2020-01-01,364.0,Overdue,More than 120 days,364.0,More than 120 days
